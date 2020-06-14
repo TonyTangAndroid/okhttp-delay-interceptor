@@ -25,7 +25,7 @@
             tools:text="@string/activity_main_seek_bar_value_fmt"
             />
 
-        <android.support.v7.widget.AppCompatSeekBar
+        <androidx.appcompat.widget.AppCompatSeekBar
             android:id="@+id/activity_main_seek_bar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
